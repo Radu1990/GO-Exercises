@@ -1,2 +1,1 @@
-# caesarcypher
-encrypting a string using a fairly basic cipher where you are changing the ascii value of each character.
+# In this repo I have included all the exercises I wrote in GO along with their unittests written with GO's Test Library
