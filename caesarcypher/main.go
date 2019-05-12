@@ -4,6 +4,9 @@ import (
 	"fmt"
 	"strings"
 )
+
+// Solution to the Caesar Cypher Problem written in GO
+
 // We are running with go "run main.go < caesar.in" in the Terminal
 func main() {
 	var length, delta int

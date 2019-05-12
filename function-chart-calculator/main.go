@@ -5,6 +5,10 @@ import (
 	"math"
 )
 
+//Generate n input values for testing some functions
+// and generating results based on every equation.
+// Generating charts based on the results of the functions.
+
 type convert func(float64) float64
 
 func main() {

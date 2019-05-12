@@ -8,6 +8,8 @@ import (
 	"regexp"
 )
 
+// Creating a web app with Golang
+
 var templates = template.Must(template.ParseFiles("tmpl/edit.html", "tmpl/view.html"))
 var validPath = regexp.MustCompile("^/(edit|save|view)/([a-zA-Z0-9]+)$")
 
